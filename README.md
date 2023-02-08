@@ -1,2 +1,0 @@
-# Selenium-Project
-Test Automation
